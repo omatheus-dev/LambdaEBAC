@@ -1,0 +1,6 @@
+Maria, F
+Bob, M
+Alex, M
+Cecilia, F
+Isabel, F
+Rafael, M
